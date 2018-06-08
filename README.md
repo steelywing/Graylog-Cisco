@@ -13,3 +13,8 @@ Support fields:
 - Mnemonic
 - Message
 - Host
+
+Tested on:
+- C2950
+- C3560
+- C3750
